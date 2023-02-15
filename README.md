@@ -16,6 +16,6 @@ Order Management Tasks:
 
 1. Install node Modules in both MMS_order and MMS_order_server by running `npm install`
 2. Install dependencies - jquery , cors , body-parser, morgan , mongodb 
-3. connect with mongodb atlas db by creating a remote access link in a new .env file 
-4. Run Noder Server 
-5. Change Directory to MMS_order and run `ng serve -o`
+4. connect with mongodb atlas db by creating a remote access link in a new .env file 
+5. Run Noder Server 
+6. Change Directory to MMS_order and run `ng serve -o`
