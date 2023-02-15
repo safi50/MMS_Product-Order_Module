@@ -3,8 +3,13 @@ Order Management Tasks:
 - Displays all products with corresponsing categories 
 - Add products to cart 
 - Delete Products from cart
+- Update product quantity in Cart
 - Display User Cart 
 - Create New Order 
+- View Orders
+- Change Delivery Status 
+- Change Delivert address
+- View Invoice
 
 
 # Steps to Execute 
